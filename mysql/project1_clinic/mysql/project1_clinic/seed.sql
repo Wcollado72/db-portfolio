@@ -1,10 +1,10 @@
 -- Sample data for clinic management project
 
 -- Clear existing data (for development)
-DELETE FROM appointments;
-DELETE FROM doctors;
-DELETE FROM patients;
-DELETE FROM specialties;
+DELETE FROM appointments WHERE 1 = 1;
+DELETE FROM doctors      WHERE 1 = 1;
+DELETE FROM patients     WHERE 1 = 1;
+DELETE FROM specialties  WHERE 1 = 1;
 
 -- Insert specialties
 INSERT INTO specialties (name, description) VALUES
