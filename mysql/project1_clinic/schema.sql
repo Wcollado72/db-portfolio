@@ -1,0 +1,1 @@
+-- Esquema inicial del proyecto de clínica
