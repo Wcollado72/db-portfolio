@@ -1,1 +1,2 @@
--- Esquema inicial del proyecto de clínica
+-- Initial schema for the clinic management project
+-- Tables: patients, doctors, appointments, specialties
