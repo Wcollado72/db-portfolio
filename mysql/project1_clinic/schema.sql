@@ -1,9 +1,6 @@
 -- Initial schema for the clinic management project
 -- Tables: patients, doctors, appointments, specialties
 
--- Initial schema for the clinic management project
--- Tables: patients, doctors, appointments, specialties
-
 -- Drop tables if they already exist (for development/reset purposes)
 DROP TABLE IF EXISTS appointments;
 DROP TABLE IF EXISTS doctors;
